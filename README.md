@@ -1,4 +1,3 @@
-# RecyclerView 的实现
 ####先说使用RecyclerView要实现的必要步骤：
 1.用**LayoutManager**管理它的布局：横向或竖向，不同的布局风格；
 2.实现Adapter类继承**RecyclerView.Adapter**类；
